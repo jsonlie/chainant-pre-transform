@@ -1,0 +1,17 @@
+{
+    "name": "jsonlie/chainant-pre-transform",
+    "description": "蚂蚁租赁接口前置参数转换",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jsonlie\\ChainantPreTransform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jsonlie"
+        }
+    ],
+    "require": {}
+}
